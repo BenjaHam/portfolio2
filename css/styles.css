@@ -1,0 +1,67 @@
+h1 {
+  text-align: center;
+}
+
+a {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  color: grey;
+  border: solid black 1px;
+}
+
+.projects {
+  padding-top: 20px;
+  font-size: 24px;
+}
+
+body {
+  background-color: #41494e;
+}
+
+.btn-dark {
+  background-color: rgba(42, 47, 50, 0.64);
+  color: #6f7985;
+  margin-top: 4px;
+}
+
+h1 {
+  color: #1c1f21;
+}
+
+address {
+  color: black;
+  font-size: 12px;
+}
+
+.jumbotron1 {
+  background-color: #616d75;
+  background: linear-gradient(rgba(97, 109, 117, 1), rgba(97, 109, 117, 0));
+}
+
+.jumbotron1 h {
+  color:
+}
+
+address {
+  margin-top: 28px;
+}
+
+.img-rounded {
+  border-radius: 18px;
+}
+
+.about-the-author p {
+  font-size: 12px;
+
+}
+
+.about-the-author h1 {
+  font-size: 24px;
+}
+
+.floating-text p {
+  float: left;
+}
