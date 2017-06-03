@@ -10,7 +10,7 @@ _{A portfolio that includes links to coding projects that I have been involved w
 
 ##Setup
 
-*_Open index.html with an html5/css3 compatible program/application.
+*_Open index.html with an html5/css3 compatible program/application or go to this link: https://benjaham.github.io/portfolio2/
 
 ## Contact details
 
